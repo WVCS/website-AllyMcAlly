@@ -3,8 +3,8 @@ h1{
   text-decoration-line: overline underline;
   text-shadow: 2px 2px black;
 }
-<h3>{
-  color: white;
+h3{
+  color: black;
 }
 body{
   background-color:tan;
@@ -13,5 +13,6 @@ img{
   width:300px
 }
 img:hover{
-   width:400px
+   width:500px;
+   filter:invert(90%);
   }
