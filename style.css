@@ -40,3 +40,16 @@ li a:hover{
   background-color:brown;
   color: white;
 }
+
+h1{
+  color: white;
+  text-decoration-line: overline underline;
+  text-shadow: 2px 2px black;
+}
+h3{
+  color: black;
+}
+body{
+  background-color:tan;
+}
+
